@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Personal Login Page",
+        "description": "A personalized login page created as an HTML and CSS school activity.",
+        "technology": "HTML, CSS",
+        "link": "#"
+    },
+    {
+        "title": "Personal Student Portfolio",
+        "description": "A responsive website that presents my background, skills, and projects.",
+        "technology": "HTML, CSS, JavaScript, JSON",
+        "link": "#"
+    },
+    {
+        "title": "Grade Average Calculator",
+        "description": "A practice project idea for calculating the average of student grades.",
+        "technology": "HTML, CSS, JavaScript",
+        "link": "#"
+    },
+    {
+        "title": "Campus Task Checklist",
+        "description": "A practice project idea for organizing assignments and school tasks.",
+        "technology": "HTML, CSS, JavaScript",
+        "link": "#"
+    }
+]
